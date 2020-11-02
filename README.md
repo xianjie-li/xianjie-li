@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 [![react-router-manager](https://img.shields.io/badge/ReactRouterManager-8DD6F9?style=flat-square)](https://github.com/Iixianjie/react-router-manager)
 
 
-
 <br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Iixianjie)](https://github.com/anuraghazra/github-readme-stats)
 
