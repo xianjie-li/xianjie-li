@@ -55,5 +55,8 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Iixianjie)](https://github.com/anuraghazra/github-readme-stats)
+<a><img src="https://github-readme-stats.vercel.app/api?username=Iixianjie" alt="counts" height="188px" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Langs" width="400px" /></a>
+
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Iixianjie)](https://github.com/anuraghazra/github-readme-stats) -->
 
