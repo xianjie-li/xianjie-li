@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### **`🌱 focus on`**
+#### **`🌱 I’m focus on`**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript(0.72)-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript(0.65)-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
