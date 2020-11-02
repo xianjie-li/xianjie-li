@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br />
 
 [![M78xx](https://img.shields.io/badge/M78-000000?style=flat-square)](https://github.com/Iixianjie/m78)
-[![Hooks](https://img.shields.io/badge/Hooks-CC342D?style=flat-squar)](https://github.com/Iixianjie/hooks)
+[![Hooks](https://img.shields.io/badge/Hooks-CC342D?style=flat-square)](https://github.com/Iixianjie/hooks)
 [![utils](https://img.shields.io/badge/Utils-EB3C00?style=flat-square)](https://github.com/Iixianjie/utils)
 [![sass-stater](https://img.shields.io/badge/SassStater-CD040B?style=flat-square)](https://github.com/Iixianjie/sass-stater)
 [![Zero](https://img.shields.io/badge/Zero-609540?style=flat-square)](https://github.com/Iixianjie/zero)
