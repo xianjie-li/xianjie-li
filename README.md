@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 #### **`🌱 focus on`**
-<br />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript(0.72)-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript(0.65)-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
@@ -40,7 +39,6 @@ Here are some ideas to get you started:
 <br />
 
 #### **`🔭 I’m currently working on`**
-<br />
 
 [![M78xx](https://img.shields.io/badge/M78-000000?style=flat-square)](https://github.com/Iixianjie/m78)
 [![Hooks](https://img.shields.io/badge/Hooks-CC342D?style=flat-square)](https://github.com/Iixianjie/hooks)
