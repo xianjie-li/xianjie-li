@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### **`focus on`**
+#### **`🌱 focus on`**
 <br />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript(0.72)-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <br />
 
-#### **`Works`**
+#### **`🔭 I’m currently working on`**
 <br />
 
 [![M78xx](https://img.shields.io/badge/M78-000000?style=flat-square)](https://github.com/Iixianjie/m78)
