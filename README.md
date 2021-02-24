@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter(0.38)-31b9f5?style=flat-square&logo=Flutter&logoColor=fff)
 ![Vue2](https://img.shields.io/badge/Vue2(0.7)-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
 ![Electron](https://img.shields.io/badge/Electron(0.12)-47848F?style=flat-square&logo=Electron&logoColor=fff)
-![Spring](https://img.shields.io/badge/Spring(0.4)-6DB33F?style=flat-square&logo=Spring&logoColor=fff)
+![Spring](https://img.shields.io/badge/Spring(0.6)-6DB33F?style=flat-square&logo=Spring&logoColor=fff)
 ![Express/Koa/Nestjs](https://img.shields.io/badge/Express/Koa/Nestjs(0.5)-E0234E?style=flat-square&logo=Nestjs&logoColor=fff)
 
 <br />
