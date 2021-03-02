@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin(0.15)-0095D5?style=flat-square&logo=Java&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart(0.5)-00d2b7?style=flat-square&logo=Dart&logoColor=fff)
 ![Sql](https://img.shields.io/badge/Sql(0.36)-4479A1?style=flat-square&logo=Mysql&logoColor=fff)
-![Java](https://img.shields.io/badge/Java(0.46)-007396?style=flat-square&logo=Java&logoColor=fff)
+![Java](https://img.shields.io/badge/Java(0.55)-007396?style=flat-square&logo=Java&logoColor=fff)
 
 ![React](https://img.shields.io/badge/React(0.75)-61DAFB?style=flat-square&logo=React&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js(0.6)-339933?style=flat-square&logo=Node.js&logoColor=fff)
