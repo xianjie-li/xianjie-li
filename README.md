@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 #### **`🔭 I’m currently working on`**
 
 [![M78](https://img.shields.io/badge/M78-000000?style=flat-square)](https://github.com/xianjie-li/m78 "react -> components, hooks, utils")
+[![M78-admin](https://img.shields.io/badge/M78-admin-000000?style=flat-square)](https://github.com/m78-core/admin "admin based M78")
 [![hooks](https://img.shields.io/badge/Hooks-CC342D?style=flat-square)](https://github.com/xianjie-li/hooks "react hooks")
 [![utils](https://img.shields.io/badge/Utils-EB3C00?style=flat-square)](https://github.com/xianjie-li/utils "utils for lixianjie")
 [![seed](https://img.shields.io/badge/seed-003057?style=flat-square)](https://github.com/m78-core/seed "core features such as authority, state manage, etc.")
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 [![r2](https://img.shields.io/badge/R2-1575F9?style=flat-square)](https://github.com/xianjie-li/r2 "reduce simplify")
 [![request](https://img.shields.io/badge/Request-0FAAFF?style=flat-square)](https://github.com/xianjie-li/request "request simplify")
 [![click-effect](https://img.shields.io/badge/ClickEffect-02303A?style=flat-square)](https://github.com/xianjie-li/click-effect "add click effect")
-[![react-render-api](https://img.shields.io/badge/ReactRenderApi-1DA1F2?style=flat-square)](https://github.com/xianjie-li/react-render-api "render react components globally through api")
+[![react-render-api](https://img.shields.io/badge/ReactRenderApi-1DA1F2?style=flat-square)](https://github.com/m78-core/render-api "render react components through api")
 [![react-router-manager](https://img.shields.io/badge/ReactRouterManager-8DD6F9?style=flat-square)](https://github.com/xianjie-li/react-router-manager "enhance and simplify react-router")
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=xianjie-li" alt="counts" width="440px" /></a>
