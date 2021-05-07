@@ -52,10 +52,9 @@ Here are some ideas to get you started:
 [![react-render-api](https://img.shields.io/badge/ReactRenderApi-1DA1F2?style=flat-square)](https://github.com/xianjie-li/react-render-api "render react components globally through api")
 [![react-router-manager](https://img.shields.io/badge/ReactRouterManager-8DD6F9?style=flat-square)](https://github.com/xianjie-li/react-router-manager "enhance and simplify react-router")
 
-<!-- 
 <a><img src="https://github-readme-stats.vercel.app/api?username=xianjie-li" alt="counts" width="440px" /></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianjie-li&layout=compact" alt="Langs" width="368px" /></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Iixianjie)](https://github.com/anuraghazra/github-readme-stats) 
--->
+
 
