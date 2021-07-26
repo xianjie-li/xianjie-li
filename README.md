@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript(0.75)-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript(0.7)-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/Kotlin(0.15)-0095D5?style=flat-square&logo=Java&logoColor=fff)
-![Dart](https://img.shields.io/badge/Dart(0.5)-00d2b7?style=flat-square&logo=Dart&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart(0.55)-00d2b7?style=flat-square&logo=Dart&logoColor=fff)
 ![Sql](https://img.shields.io/badge/Sql(0.36)-4479A1?style=flat-square&logo=Mysql&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java(0.55)-007396?style=flat-square&logo=Java&logoColor=fff)
 
