@@ -45,13 +45,10 @@ Here are some ideas to get you started:
 [![utils](https://img.shields.io/badge/Utils-EB3C00?style=flat-square)](https://github.com/xianjie-li/utils "utils for lixianjie")
 [![seed](https://img.shields.io/badge/seed-003057?style=flat-square)](https://github.com/m78-core/seed "core features such as authority, state manage, etc.")
 [![wine](https://img.shields.io/badge/wine-003057?style=flat-square)](https://github.com/m78-core/wine "browser window library")
-[![m78/style](https://img.shields.io/badge/style-CD040B?style=flat-square)](https://github.com/m78-core/style "style lib")
 [![zero](https://img.shields.io/badge/Zero-609540?style=flat-square)](https://github.com/xianjie-li/zero "CLI with 0 configuration")
-[![r2](https://img.shields.io/badge/R2-1575F9?style=flat-square)](https://github.com/xianjie-li/r2 "reduce simplify")
 [![request](https://img.shields.io/badge/Request-0FAAFF?style=flat-square)](https://github.com/xianjie-li/request "request simplify")
-[![click-effect](https://img.shields.io/badge/ClickEffect-02303A?style=flat-square)](https://github.com/xianjie-li/click-effect "add click effect")
 [![react-render-api](https://img.shields.io/badge/ReactRenderApi-1DA1F2?style=flat-square)](https://github.com/m78-core/render-api "render react components through api")
-[![react-router-manager](https://img.shields.io/badge/ReactRouterManager-8DD6F9?style=flat-square)](https://github.com/xianjie-li/react-router-manager "enhance and simplify react-router")
+
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=xianjie-li" alt="counts" width="440px" /></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianjie-li&layout=compact" alt="Langs" width="368px" /></a>
