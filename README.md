@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br />
 
-#### **`🔭 I’m currently working on`**
+#### **`🔬 I’m currently working on`**
 
 [![M78](https://img.shields.io/badge/M78-000000?style=flat-square)](https://github.com/xianjie-li/m78 "react -> components, hooks, utils")
 [![M78-admin](https://img.shields.io/badge/M78-admin-000000?style=flat-square)](https://github.com/m78-core/admin "admin based M78")
