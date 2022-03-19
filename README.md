@@ -20,16 +20,14 @@ Here are some ideas to get you started:
 
 #### **`🌱 I’m focus on`**
 
-![JavaScript](https://img.shields.io/badge/JavaScript(0.75)-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript(0.7)-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/Dart(0.55)-00d2b7?style=flat-square&logo=Dart&logoColor=fff)
-![Java](https://img.shields.io/badge/Java(0.55)-007396?style=flat-square&logo=Java&logoColor=fff)
-![Go](https://img.shields.io/badge/Go(0.5)-007d9c?style=flat-square&logo=Go&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/Dart-00d2b7?style=flat-square&logo=Dart&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-a72145?style=flat-square&logo=Rust&logoColor=fff)
 
-![React](https://img.shields.io/badge/React(0.75)-61DAFB?style=flat-square&logo=React&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js(0.6)-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![Flutter](https://img.shields.io/badge/Flutter(0.5)-31b9f5?style=flat-square&logo=Flutter&logoColor=fff)
-![Electron](https://img.shields.io/badge/Electron(0.12)-47848F?style=flat-square&logo=Electron&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-31b9f5?style=flat-square&logo=Flutter&logoColor=fff)
 
 <br />
 
