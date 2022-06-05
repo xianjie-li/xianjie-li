@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### **`🌱 I’m focus on`**
 
-![JS/TS](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![JS&TS](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-00d2b7?style=flat-square&logo=Dart&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-a72145?style=flat-square&logo=Java&logoColor=fff)
 ![Swift](https://img.shields.io/badge/Swift-f15139?style=flat-square&logo=Swift&logoColor=fff)
