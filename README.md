@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ![JS/TS](https://img.shields.io/badge/JS/TS-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-00d2b7?style=flat-square&logo=Dart&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-a72145?style=flat-square&logo=Java&logoColor=fff)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
