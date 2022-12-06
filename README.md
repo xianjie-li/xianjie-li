@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 #### **`🌱 I’m focus on`**
 
 
-![frontend/client developer](https://img.shields.io/badge/-frontend%2Fclient%20developer-blue)
-![amateur backend developer](https://img.shields.io/badge/-amateur%20backend%20developer-purple)
+![frontend/client development](https://img.shields.io/badge/-frontend%2Fclient%20development-blue)
+![amateur backend development](https://img.shields.io/badge/-amateur%20backend%20development-purple)
 
 
 <br />
