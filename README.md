@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <br />
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=xianjie-li" alt="counts" width="440px" /></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianjie-li&layout=compact" alt="Langs" width="368px" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianjie-li&hide=css,sass,html&layout=compact" alt="Langs" width="368px" /></a>
 
 
