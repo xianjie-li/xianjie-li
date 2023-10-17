@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 
 #### **`🌱 I’m focus on`**
 
-
-![frontend and backend](https://img.shields.io/badge/-Frontend%20and%20Backend-blue)
+frontend, multi-platform applications, part-time back-end
 
 
 <br />
 
 #### **`🔬 I’m currently working on`**
 
-- [M78](https://github.com/xianjie-li/m78)  -   front-end library, components, hooks, admin template, and...
+- [M78](https://github.com/xianjie-li/m78)  -   frontend library, components, hooks, admin template, and...
 
 <br />
 
