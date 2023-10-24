@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 #### **`🌱 I’m focus on`**
 
-frontend, multi-platform applications, part-time back-end
-
+frontend, multi-platform applications, amateur backend
 
 <br />
 
