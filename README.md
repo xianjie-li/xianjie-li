@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### **`🌱 I’m focus on`**
 
-Frontend, Multi-platform applications, Part-time back-end.
+Frontend, Cross-platform applications, Part-time back-end.
 
 <br />
 
