@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 #### **`🌱 I’m focus on`**
 
-frontend, multi-platform applications, amateur backend
+Frontend, Multi-platform applications, Part-time back-end.
 
 <br />
 
 #### **`🔬 I’m currently working on`**
 
-- [M78](https://github.com/xianjie-li/m78)  -   frontend library, components, hooks, admin template, and...
+- [M78](https://github.com/xianjie-li/m78)  -   Frontend library, components, hooks, admin template, and...
 
 <br />
 
