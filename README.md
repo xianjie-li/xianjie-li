@@ -26,7 +26,7 @@ Software Engineer | 3D & Painting Enthusiast
 
 #### **`🔬 I’m currently working on`**
 
-- [Zo](https://github.com/xianjie-li/zo)  - Flutter widgets and kits
+- [Zo](https://github.com/xianjie-li/zo)  - Flutter infrastructure for indie software development
 
 <br />
 
