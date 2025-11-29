@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 #### **`🌱 I’m focus on`**
 
-Frontend, Cross-platform applications, Part-time back-end.
+Software Engineer | 3D & Painting Enthusiast
 
 <br />
 
 #### **`🔬 I’m currently working on`**
 
-- [M78](https://github.com/xianjie-li/m78)  -   Frontend library, components, hooks, admin template, and...
+- [Zo](https://github.com/xianjie-li/zo)  - Flutter widgets and kits
 
 <br />
 
